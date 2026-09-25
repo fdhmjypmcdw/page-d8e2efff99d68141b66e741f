@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.ei33n.cn/sitemap.xml
